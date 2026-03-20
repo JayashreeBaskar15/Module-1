@@ -22,7 +22,6 @@ I am a string literal<br /r>
 print(a)<br /r>
 ```
 ## OUTPUT
-.
 ![image](https://github.com/user-attachments/assets/d151b986-1b18-4059-b012-12cc4a54dda1)
 
 
